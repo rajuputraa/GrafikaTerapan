@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/The_Viking_Village.unity
-    guid: 00000000000000000000000000000000
+    path: Assets/Night-Village.unity
+    guid: 793c07c3574c6ba44b0e0dc0f7172961
   m_configObjects: {}
